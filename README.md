@@ -1,6 +1,6 @@
 # Pixel Beat Quest
 
-This is just an small prank app to [rick-roll](https://en.wikipedia.org/wiki/Rickrolling) your friends.
+This is just a small prank app to [rick-roll](https://en.wikipedia.org/wiki/Rickrolling) your friends.
 
 ## Contributing
 
