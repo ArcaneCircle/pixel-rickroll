@@ -1,6 +1,6 @@
 # Pixel Beat Quest
 
-This is just a small prank app to [rick-roll](https://en.wikipedia.org/wiki/Rickrolling) your friends.
+This is just a small prank app to [rickroll](https://en.wikipedia.org/wiki/Rickrolling) your friends.
 
 ## Contributing
 
@@ -56,8 +56,7 @@ git push origin v1.0.1
 
 ## Credits
 
-image taken from:
-https://giphy.com/gifs/memes-rickroll-potatoz-UeIMji8ti2zeoFI9Wg
-
-song taken from:
-https://www.youtube.com/watch?v=9NcPvmk4vfo
+- [howler.js](https://github.com/goldfire/howler.js) library used for playing sounds
+- rickroll animated image taken from: https://giphy.com/gifs/memes-rickroll-potatoz-UeIMji8ti2zeoFI9Wg
+- the sound used is a fragment of [Never Gonna Give You Up (8 Bit Remix Cover Version)](https://www.youtube.com/watch?v=9NcPvmk4vfo)
+- the app icon was created using characters from: https://opengameart.org/content/3-cyberpunk-characters
