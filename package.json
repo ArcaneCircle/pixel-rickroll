@@ -8,11 +8,11 @@
     "build": "vite build"
   },
   "devDependencies": {
-    "concurrently": "^9.0.1",
-    "prettier": "^3.3.3",
-    "vite": "^5.4.8",
-    "webxdc-dev": "^0.17.0",
-    "webxdc-vite-plugins": "github:webxdc/webxdc-vite-plugins"
+    "@webxdc/vite-plugins": "latest",
+    "@webxdc/webxdc-dev": "latest",
+    "concurrently": "latest",
+    "prettier": "latest",
+    "vite": "latest"
   },
   "dependencies": {
     "howler": "^2.2.4"
