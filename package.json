@@ -1,5 +1,6 @@
 {
   "private": true,
+  "type": "module",
   "scripts": {
     "start": "vite --port 3000",
     "emulator": "concurrently \"npm start\" \"webxdc-dev run http://localhost:3000\"",
