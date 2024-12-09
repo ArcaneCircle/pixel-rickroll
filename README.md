@@ -1,4 +1,4 @@
-# Pixel Beat Quest
+# Pixel Beat
 
 This is just a small prank app to [rickroll](https://en.wikipedia.org/wiki/Rickrolling) your friends.
 
