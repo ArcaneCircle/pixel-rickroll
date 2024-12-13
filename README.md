@@ -6,7 +6,7 @@ This is just a small prank app to [rickroll](https://en.wikipedia.org/wiki/Rickr
 
 ### Installing Dependencies
 
-After cloning this repo, install dependecies:
+After cloning this repo, install dependencies:
 
 ```
 pnpm i
@@ -24,8 +24,6 @@ To test your work in your browser (with hot reloading!) while developing:
 
 ```
 pnpm start
-# Alternatively to test in a more advanced WebXDC emulator:
-pnpm emulator
 ```
 
 ### Building
